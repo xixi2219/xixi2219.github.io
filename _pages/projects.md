@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 ## Project Experience
-**Title**:Numerical Solution of Partial Differential Equation(Course Project)
+**Title**: Numerical Solution of Partial Differential Equation(Course Project)
 
 - Wrote MATLAB programs for the five-point difference scheme and its error analysis for solving Poisson equation. 
 - Wrote MATLAB programs for the Explicit scheme, Implicit scheme, and Crank-Nicolson scheme for solving modeling problems of parabolic equations and their error analysis.
@@ -15,9 +15,9 @@ author_profile: true
 ***
 
 ## Working Experience
-**Company**:Chongqing Xianshi Investment Management Co., Ltd
+**Company**: Chongqing Xianshi Investment Management Co., Ltd
 
-**Department**:Quantitative Strategy Department 
+**Department**: Quantitative Strategy Department 
 
 During the internship, I gained insights into the financial industry and quantitative investment. 
 I actively communicated with team members on trading strategies and learned how to build a quantitative framework, 
