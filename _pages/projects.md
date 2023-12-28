@@ -12,6 +12,7 @@ author_profile: true
 - Wrote MATLAB programs for the Upwind scheme, Lax-Wendroff scheme, and Beam-Warming scheme for solving hyperbolic equations and their error analysis.
 - Wrote MATLAB programs for different numerical methods for solving systems of linear equations and multigrid method, and made a presentation for the compare of different methods.
 
+***
 
 ## Working Experience
 **Company**:Chongqing Xianshi Investment Management Co., Ltd
