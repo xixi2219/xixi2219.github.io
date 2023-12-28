@@ -4,7 +4,7 @@ title: "Project and Working Experience"
 permalink: /projects/
 author_profile: true
 ---
-# Project Experience
+## Project Experience
 **Title**:Numerical Solution of Partial Differential Equation(Course Project)
 
 - Wrote MATLAB programs for the five-point difference scheme and its error analysis for solving Poisson equation. 
@@ -13,7 +13,7 @@ author_profile: true
 - Wrote MATLAB programs for different numerical methods for solving systems of linear equations and multigrid method, and made a presentation for the compare of different methods.
 
 
-# Working Experience
+## Working Experience
 **Company**:Chongqing Xianshi Investment Management Co., Ltd
 
 **Department**:Quantitative Strategy Department 
