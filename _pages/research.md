@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-**Title**:Superfluid Current across a barrier in a Ring Lattice
+**Title**: Superfluid Current across a barrier in a Ring Lattice
 
 **Advisor**: Prof. Yongyong Cai
 
@@ -22,7 +22,7 @@ We also pay attention to the linear stability and dynamics of this system.
 
 ***
 
-**Title**:Numerical Solution of the Complex Gross-Pitaevskii Equation: stationary states and dynamics
+**Title**: Numerical Solution of the Complex Gross-Pitaevskii Equation: stationary states and dynamics
 
 **Advisor**: Prof. Yongyong Cai
 
