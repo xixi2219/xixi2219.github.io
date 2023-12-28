@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yutong Kuang-Personal Website"
+title                    : "Yutong Kuang - Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
