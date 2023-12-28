@@ -19,7 +19,7 @@ We find that the current will eventually vanish when $V_{1}$ is large enough. An
 We are now trying to do some theoretical analysis about the phenomenon we find. 
 
 We also pay attention to the linear stability and dynamics of this system. 
-
+***
 ***
 **Title**:Numerical Solution of the Complex Gross-Pitaevskii Equation: stationary states and dynamics
 
