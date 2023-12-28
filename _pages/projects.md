@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Project and Working Experience"
-permalink: /project/
+permalink: /projects/
 author_profile: true
 ---
 # Project Experience
