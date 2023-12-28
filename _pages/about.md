@@ -12,7 +12,7 @@ I'm a second-year M.S. student at [School of Mathematical science](https://math.
 
 My reasearch includes numerical PDE, numerical analysis, and computational physics. I am also very interested in machine learning, optimization and other fields related to applied mathematics. I have earned B.A.s in mathematics and applied mathematics at Beijing Normal University in 2022.
 
-Here is my [Curriculum Vitae].For more information, please navigate to any of the following pages: [Reasearch], [Projects], [Profession] and [Interests]
+Here is my [Curriculum Vitae].For more information, please navigate to any of the following pages: [Reasearch], [Projects], [Teaching], [Talks] and [Interests]
 
 **Contact Information**
 
