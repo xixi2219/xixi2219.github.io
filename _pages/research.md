@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-**Title**: Superfluid Current across a barrier in a Ring Lattice
+**Title**: Superfluid Current across a barrier in a Ring Lattice (It's a work in progress.)
 
 **Advisor**: Prof. Yongyong Cai
 
@@ -14,7 +14,7 @@ Suppose we ramp up a barrier at site $1$, that is, the trapping potential $V_{j}
 The energy functional is deformed and the stationary points will shift. We use numerical algorithm to explore how would the super-current change in this process. 
 Here we take the periodic boundary condition.
 
-We firstly use numerical continuation method(a kind of Newton method to some extent) to trace the stationary points when we increase $V_{1}$ and also the repulsive parameter $g$. 
+We firstly use numerical continuation method(a kind of Newton method to some extent) to trace the stationary points when we increase $V_{1}$ and also the repulsive parameter $g$(In this work, we write our own code of numerical continuation to investigate flexibly). 
 We find that the current will eventually vanish when $V_{1}$ is large enough. And the solution's behavior will be different at different $g$. 
 We are now trying to do some theoretical analysis about the phenomenon we find. 
 
@@ -22,7 +22,7 @@ We also pay attention to the linear stability and dynamics of this system.
 
 ***
 
-**Title**: Numerical Solution of the Complex Gross-Pitaevskii Equation: stationary states and dynamics
+**Title**: [Numerical Solution of the Complex Gross-Pitaevskii Equation: stationary states and dynamics](https://github.com/xixi2219/CGPE)
 
 **Advisor**: Prof. Yongyong Cai
 
