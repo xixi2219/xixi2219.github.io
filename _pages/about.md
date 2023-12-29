@@ -16,7 +16,7 @@ Here is my [Curriculum Vitae].For more information, please navigate to any of th
 
 **Contact Information**
 
-Email:1752661213@qq.com
+Email: yutongkuang0@gmail.com
 
 
 
