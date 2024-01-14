@@ -7,10 +7,11 @@ author_profile: true
 ## Project Experience
 **Title**: [Numerical Solution of Partial Differential Equation(Course Project)](https://github.com/xixi2219/Numerical-Solution-of-PDE)
 
-- Wrote MATLAB programs for the five-point difference scheme and its error analysis for solving Poisson equation. 
-- Wrote MATLAB programs for the Explicit scheme, Implicit scheme, and Crank-Nicolson scheme for solving modeling problems of parabolic equations and their error analysis.
-- Wrote MATLAB programs for the Upwind scheme, Lax-Wendroff scheme, and Beam-Warming scheme for solving hyperbolic equations and their error analysis.
-- Wrote MATLAB programs for different numerical methods for solving systems of linear equations and multigrid method, and made a presentation for the compare of different methods.
+- Developed a MATLAB program for the five-point difference scheme and conducted error analysis for solving
+the Poisson equation. Authored an accompanying experimental report using LaTeX.
+- Created MATLAB programs for Explicit, Implicit, and Crank-Nicolson schemes to address modeling problems in parabolic equations, including error analysis. Documented the findings in an experimental report with LaTeX.
+- Programmed in MATLAB for Upwind, Lax-Wendroff, and Beam-Warming schemes for hyperbolic equations and their error analysis. The results were reported using LaTeX.
+- Composed MATLAB programs for various numerical methods to solve systems of linear equations and the multigrid method. Presented a comparative analysis of these methods.
 
 ***
 
@@ -19,7 +20,4 @@ author_profile: true
 
 **Department**: Quantitative Strategy Department 
 
-During the internship, I gained insights into the financial industry and quantitative investment. 
-I actively communicated with team members on trading strategies and learned how to build a quantitative framework, 
-as well as how to replicate and backtest strategies. Throughout the internship, I successfully completed the coding 
-and backtesting of a trading strategy based on transaction volume, and replicated several other strategies. The code was completed by python.
+Acquired knowledge in the financial industry and quantitative investment during my internship. Engaged in active discussions with team members on trading strategies, learning to construct a quantitative framework, and mastering strategy replication and backtesting. Successfully coded and backtested a trading strategy based on transaction volume, in addition to replicating several other strategies, using Python.
