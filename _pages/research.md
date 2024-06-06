@@ -11,11 +11,14 @@ author_profile: true
 
 We consider the current of the stationary points of an energy functional for a Bose-Einstein condensate(BEC) on an ideal ring with $N$ sites. 
 Suppose we ramp up a barrier at site $1$, that is, the trapping potential $V_{j}$ in this discrete model will be non-zero only at $V_{1}$.
-The energy functional is deformed and the stationary points will shift. The project uses numerical algorithms to explore how the super-current changes in this process. 
+The energy functional is deformed and the stationary points will shift. The project uses numerical algorithms to detect stationary points with current and explore how the super-current changes in this process. 
 Here we take the periodic boundary condition.
 
-We first use the numerical continuation method(a kind of Newton method to some extent) to trace the stationary points when we increase $V_{1}$ and also the repulsive parameter $g$(In this work, we write our own code of numerical continuation to investigate flexibly). 
-We find that the current will eventually vanish when $V_{1}$ is large enough. And the solution's behavior will be different at different $g$. 
+We first compute some stationary points with current directly and implement constrained high-index saddle dynamics(CHiSD) algorithm to construct the solution landscape of the system to further explore the stationary points. 
+
+We then use the numerical continuation method(a kind of Newton method to some extent) to trace the stationary points when we increase $V_{1}$ and also the repulsive parameter $g$(In this work, we write our own code of numerical continuation to investigate flexibly). 
+
+We find some extra stationary points with non-zero current in some situations, which we cannot compute directly. The numerical computations also shows that the current will eventually vanish when $V_{1}$ is large enough. And the solution's behavior will be different at different $g$. 
 We are now trying to do some theoretical analysis about the phenomenon we find. 
 
 We also pay attention to the linear stability and dynamics of this system. 
